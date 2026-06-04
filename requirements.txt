@@ -1,0 +1,1 @@
+Just run download_req.py file before training an model
