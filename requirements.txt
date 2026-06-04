@@ -1,1 +1,2 @@
-Just run download_req.py file before training an model
+Just run download_req.py file before training an model.
+Make sure you are using Python version <=3.12
